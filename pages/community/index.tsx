@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 const Community = () => {
-  console.log("Community component - Pages Router");
+  console.log("Community component - Pages Router ");
   const [title, setTitle] = useState<string>("hello");
   return (
     <div>
